@@ -1,6 +1,6 @@
 {
-	"name": "prom-client",
-	"version": "10.2.2",
+	"name": "prom-client-series",
+	"version": "10.2.3",
 	"description": "Client for prometheus",
 	"main": "index.js",
 	"files": ["lib/", "index.js", "index.d.ts"],
@@ -16,12 +16,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:siimon/prom-client.git"
+		"url": "git@github.com:nb233/prom-client.git"
 	},
 	"keywords": ["Prometheus", "Metrics", "Client"],
-	"author": "Simon Nyberg",
 	"license": "Apache-2.0",
-	"homepage": "https://github.com/siimon/prom-client",
+	"homepage": "https://github.com/nb233/prom-client-series",
 	"devDependencies": {
 		"eslint": "^4.1.1",
 		"eslint-plugin-prettier": "^2.1.2",
